@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "e616a47364e3c201",
+    "type": "split",
+    "children": [
+      {
+        "id": "574907f5d3dd65db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55e88c2673327172",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6c5c19456c52b83",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0d7638d12d90798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09e88257b56397a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9652146194c25d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:搜索",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9060b54ce30d3b92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3430e1cb34f15239",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0f75ef19cfd7680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f89212a293def7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4ea2e444558c4f15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6194d4fb819db5a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8048225dcb8e25d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "55e88c2673327172",
+  "lastOpenFiles": [
+    "笔记/图论/拓扑排序/P2505 HAOI2012 道路.md",
+    "笔记/动态规划/DP.md",
+    "笔记/图论/拓扑排序",
+    "笔记/动态规划/状压DP.md",
+    "笔记/动态规划/区间DP.md",
+    "题目/贪心/小奇画画.md",
+    "题目/贪心/钱仓.md",
+    "题目/其他/P7935 AVOGADRO.md",
+    "题目/其他/优美值.md",
+    "题目/概率et期望/P4206 NOI2005 聪聪与可可.md",
+    "题目/线段树/主席树/P1972 SDOI2009 HH的项链.md",
+    "笔记/线段树/主席树.md",
+    "笔记/线段树/线段树总篇.md",
+    "笔记/线段树/扫描线.md",
+    "笔记/线段树/线段树.md",
+    "笔记/线段树/权值线段树.md",
+    "题目/图论/并查集/游戏.md",
+    "题目/线段树/线段树/动态最值.md",
+    "题目/线段树/线段树/售票系统.md",
+    "题目/线段树/线段树/P1558 色板游戏.md",
+    "题目/线段树/线段树/P4588 TJOI2018 数学计算.md",
+    "题目/二分/书的复制.md",
+    "题目/线段树/线段树/P1607 USACO09FEB Fair Shuttle G.md",
+    "2024考前集训测试12_Sol.pdf",
+    "2024考前集训测试12_Sol.md",
+    "2024考前集训测试12.md",
+    "题目/DP/背包DP/奶牛过河.md",
+    "题目/DP/背包DP/P6702 COCI2010-2011_7 ŠEĆER.md",
+    "题目/DP/计数DP",
+    "题目/贪心",
+    "未命名",
+    "题目/二分",
+    "笔记/动态规划",
+    "笔记/概率et期望",
+    "笔记/图论/最短路",
+    "笔记/图论",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "图片/C++运算符优先级.png",
+    "图片/为何按右端点排序.png"
+  ]
+}

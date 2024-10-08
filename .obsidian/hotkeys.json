@@ -1,0 +1,10 @@
+{
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ]
+}
