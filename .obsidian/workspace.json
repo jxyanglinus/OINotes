@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1f44b7be2a0b150d",
+        "id": "a38136d7f02a396b",
         "type": "tabs",
         "children": [
           {
-            "id": "5ceafc1c25a04d88",
+            "id": "dd5f86b32c8140e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "题目/图论/最小斯坦纳树/Peach Blossom Spring.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "题目/图论/最小斯坦纳树/Peach Blossom Spring.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "题目/图论/最小斯坦纳树/Peach Blossom Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "题目/图论/最小斯坦纳树/Peach Blossom Spring.md"
+              }
             }
           }
         ],
@@ -138,18 +146,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ceafc1c25a04d88",
+  "active": "dd5f86b32c8140e7",
   "lastOpenFiles": [
-    "题目/DP/背包DP/P2744 USACO5.3 量取牛奶Milk Measuring.md",
+    "题目/图论/最小斯坦纳树/P3264 JLOI2015 管道连接.md",
+    "题目/图论/最小斯坦纳树/Peach Blossom Spring.md",
+    "笔记/最小斯坦纳树.md",
+    "笔记/二维哈希.md",
+    "笔记/笔记：字典树.md",
     "笔记/bitset 使用.md",
+    "笔记/动态规划/状压DP.md",
+    "笔记/动态规划/DP.md",
+    "题目/DP/状压DP/P5911 POI2004 PRZ.md",
+    "题目/图论/最小斯坦纳树",
+    "题目/DP/背包DP/P2744 USACO5.3 量取牛奶Milk Measuring.md",
     "题目/DP/背包DP/P6702 COCI2010-2011_7 ŠEĆER.md",
     "题目/DP/背包DP/奶牛过河.md",
     "题目/DP/背包DP/Software.md",
     "题目/数学/解方程.md",
-    "笔记/二维哈希.md",
-    "笔记/笔记：字典树.md",
-    "笔记/动态规划/DP.md",
-    "笔记/动态规划/状压DP.md",
     "笔记/动态规划/区间DP.md",
     "题目/搜索/错题：P2895 Meteor Shower S.md",
     "笔记/图论/拓扑排序/P2505 HAOI2012 道路.md",
@@ -163,10 +176,6 @@
     "笔记/线段树/主席树.md",
     "笔记/线段树/线段树总篇.md",
     "笔记/线段树/扫描线.md",
-    "笔记/线段树/线段树.md",
-    "笔记/线段树/权值线段树.md",
-    "题目/图论/并查集/游戏.md",
-    "题目/线段树/线段树/动态最值.md",
     "2024考前集训测试12_Sol.pdf",
     "题目/DP/计数DP",
     "题目/贪心",
@@ -175,7 +184,6 @@
     "笔记/动态规划",
     "笔记/概率et期望",
     "笔记/图论/最短路",
-    "笔记/图论",
     "未命名 1.canvas",
     "未命名.canvas",
     "图片/C++运算符优先级.png",
