@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "574907f5d3dd65db",
+        "id": "1f44b7be2a0b150d",
         "type": "tabs",
         "children": [
           {
-            "id": "55e88c2673327172",
+            "id": "5ceafc1c25a04d88",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,13 +138,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55e88c2673327172",
+  "active": "5ceafc1c25a04d88",
   "lastOpenFiles": [
-    "笔记/图论/拓扑排序/P2505 HAOI2012 道路.md",
+    "题目/DP/背包DP/P2744 USACO5.3 量取牛奶Milk Measuring.md",
+    "笔记/bitset 使用.md",
+    "题目/DP/背包DP/P6702 COCI2010-2011_7 ŠEĆER.md",
+    "题目/DP/背包DP/奶牛过河.md",
+    "题目/DP/背包DP/Software.md",
+    "题目/数学/解方程.md",
+    "笔记/二维哈希.md",
+    "笔记/笔记：字典树.md",
     "笔记/动态规划/DP.md",
-    "笔记/图论/拓扑排序",
     "笔记/动态规划/状压DP.md",
     "笔记/动态规划/区间DP.md",
+    "题目/搜索/错题：P2895 Meteor Shower S.md",
+    "笔记/图论/拓扑排序/P2505 HAOI2012 道路.md",
+    "笔记/图论/拓扑排序",
     "题目/贪心/小奇画画.md",
     "题目/贪心/钱仓.md",
     "题目/其他/P7935 AVOGADRO.md",
@@ -158,16 +167,7 @@
     "笔记/线段树/权值线段树.md",
     "题目/图论/并查集/游戏.md",
     "题目/线段树/线段树/动态最值.md",
-    "题目/线段树/线段树/售票系统.md",
-    "题目/线段树/线段树/P1558 色板游戏.md",
-    "题目/线段树/线段树/P4588 TJOI2018 数学计算.md",
-    "题目/二分/书的复制.md",
-    "题目/线段树/线段树/P1607 USACO09FEB Fair Shuttle G.md",
     "2024考前集训测试12_Sol.pdf",
-    "2024考前集训测试12_Sol.md",
-    "2024考前集训测试12.md",
-    "题目/DP/背包DP/奶牛过河.md",
-    "题目/DP/背包DP/P6702 COCI2010-2011_7 ŠEĆER.md",
     "题目/DP/计数DP",
     "题目/贪心",
     "未命名",
