@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a38136d7f02a396b",
+        "id": "6536fc9725ab85b9",
         "type": "tabs",
         "children": [
           {
-            "id": "dd5f86b32c8140e7",
+            "id": "6458f7886e18a078",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "题目/图论/最小斯坦纳树/Peach Blossom Spring.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题目/图论/最小斯坦纳树/Peach Blossom Spring.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题目/图论/最小斯坦纳树/Peach Blossom Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "题目/图论/最小斯坦纳树/Peach Blossom Spring.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,10 +138,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dd5f86b32c8140e7",
+  "active": "6458f7886e18a078",
   "lastOpenFiles": [
-    "题目/图论/最小斯坦纳树/P3264 JLOI2015 管道连接.md",
+    "笔记/动态规划/01背包之：退背包.md",
     "题目/图论/最小斯坦纳树/Peach Blossom Spring.md",
+    "题目/图论/最小斯坦纳树/P3264 JLOI2015 管道连接.md",
     "笔记/最小斯坦纳树.md",
     "笔记/二维哈希.md",
     "笔记/笔记：字典树.md",
@@ -175,7 +168,6 @@
     "题目/线段树/主席树/P1972 SDOI2009 HH的项链.md",
     "笔记/线段树/主席树.md",
     "笔记/线段树/线段树总篇.md",
-    "笔记/线段树/扫描线.md",
     "2024考前集训测试12_Sol.pdf",
     "题目/DP/计数DP",
     "题目/贪心",
