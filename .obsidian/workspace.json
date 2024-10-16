@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6536fc9725ab85b9",
+        "id": "dea487a28db5e52c",
         "type": "tabs",
         "children": [
           {
-            "id": "6458f7886e18a078",
+            "id": "dc82d8e82ba40b3c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6458f7886e18a078",
+  "active": "dc82d8e82ba40b3c",
   "lastOpenFiles": [
+    "题目/DP/背包DP/P5020 NOIP2018 提高组 货币系统.md",
+    "笔记/快读快写.md",
+    "未命名.md",
+    "题目/DP/背包DP/P1941 NOIP2014 提高组 飞扬的小鸟.md",
     "笔记/动态规划/01背包之：退背包.md",
     "题目/图论/最小斯坦纳树/Peach Blossom Spring.md",
     "题目/图论/最小斯坦纳树/P3264 JLOI2015 管道连接.md",
@@ -164,10 +168,6 @@
     "题目/贪心/钱仓.md",
     "题目/其他/P7935 AVOGADRO.md",
     "题目/其他/优美值.md",
-    "题目/概率et期望/P4206 NOI2005 聪聪与可可.md",
-    "题目/线段树/主席树/P1972 SDOI2009 HH的项链.md",
-    "笔记/线段树/主席树.md",
-    "笔记/线段树/线段树总篇.md",
     "2024考前集训测试12_Sol.pdf",
     "题目/DP/计数DP",
     "题目/贪心",
