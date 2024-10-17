@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dea487a28db5e52c",
+        "id": "49c067b3ba5334cc",
         "type": "tabs",
         "children": [
           {
-            "id": "dc82d8e82ba40b3c",
+            "id": "f11dc785a3c9dcc7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,10 +138,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dc82d8e82ba40b3c",
+  "active": "f11dc785a3c9dcc7",
   "lastOpenFiles": [
-    "题目/DP/背包DP/P5020 NOIP2018 提高组 货币系统.md",
     "笔记/快读快写.md",
+    "题目/搜索/P9861 CCC 2008 S4 Twenty-four.md",
+    "题目/DP/背包DP/P5020 NOIP2018 提高组 货币系统.md",
     "未命名.md",
     "题目/DP/背包DP/P1941 NOIP2014 提高组 飞扬的小鸟.md",
     "笔记/动态规划/01背包之：退背包.md",
@@ -167,7 +168,6 @@
     "题目/贪心/小奇画画.md",
     "题目/贪心/钱仓.md",
     "题目/其他/P7935 AVOGADRO.md",
-    "题目/其他/优美值.md",
     "2024考前集训测试12_Sol.pdf",
     "题目/DP/计数DP",
     "题目/贪心",
