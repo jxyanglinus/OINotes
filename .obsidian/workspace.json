@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "49c067b3ba5334cc",
+        "id": "abfeb4dc6e087668",
         "type": "tabs",
         "children": [
           {
-            "id": "f11dc785a3c9dcc7",
+            "id": "635c95400b18b171",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "笔记/动态规划/多进程 DP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "笔记/动态规划/多进程 DP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "笔记/动态规划/多进程 DP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "笔记/动态规划/多进程 DP.md"
+              }
             }
           }
         ],
@@ -138,14 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f11dc785a3c9dcc7",
+  "active": "09e88257b56397a3",
   "lastOpenFiles": [
+    "笔记/动态规划/01背包之：退背包.md",
+    "题目/DP/背包DP/Software.md",
+    "笔记/动态规划/多进程 DP.md",
     "笔记/快读快写.md",
     "题目/搜索/P9861 CCC 2008 S4 Twenty-four.md",
     "题目/DP/背包DP/P5020 NOIP2018 提高组 货币系统.md",
     "未命名.md",
     "题目/DP/背包DP/P1941 NOIP2014 提高组 飞扬的小鸟.md",
-    "笔记/动态规划/01背包之：退背包.md",
     "题目/图论/最小斯坦纳树/Peach Blossom Spring.md",
     "题目/图论/最小斯坦纳树/P3264 JLOI2015 管道连接.md",
     "笔记/最小斯坦纳树.md",
@@ -159,7 +169,6 @@
     "题目/DP/背包DP/P2744 USACO5.3 量取牛奶Milk Measuring.md",
     "题目/DP/背包DP/P6702 COCI2010-2011_7 ŠEĆER.md",
     "题目/DP/背包DP/奶牛过河.md",
-    "题目/DP/背包DP/Software.md",
     "题目/数学/解方程.md",
     "笔记/动态规划/区间DP.md",
     "题目/搜索/错题：P2895 Meteor Shower S.md",
@@ -167,7 +176,6 @@
     "笔记/图论/拓扑排序",
     "题目/贪心/小奇画画.md",
     "题目/贪心/钱仓.md",
-    "题目/其他/P7935 AVOGADRO.md",
     "2024考前集训测试12_Sol.pdf",
     "题目/DP/计数DP",
     "题目/贪心",
