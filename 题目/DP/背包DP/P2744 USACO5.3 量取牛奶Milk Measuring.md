@@ -1,3 +1,9 @@
+---
+tags:
+  - 背包
+  - 动态规划
+  - 搜索
+---
 [P2744 USACO5.3 量取牛奶Milk Measuring - 洛谷](https://www.luogu.com.cn/problem/P2744) 
 ## 分析
 方法一：
