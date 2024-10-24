@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bdc8820e25f3ca34",
+        "id": "9ada2a3c30927d89",
         "type": "tabs",
         "children": [
           {
-            "id": "cc45dd84fb57a9f6",
+            "id": "01cd7cf5915428fb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "09e88257b56397a3",
+  "active": "01cd7cf5915428fb",
   "lastOpenFiles": [
+    "题目/DP/线性DP/P1668 USACO04DEC Cleaning Shifts S.md",
+    "笔记/动态规划/线段树优化 DP.md",
+    "笔记/动态规划/状压DP.md",
+    "[[P1880.md",
+    "笔记/动态规划/DP.md",
     "题目/图论/并查集/欧几里得的噩梦.md",
     "题目/DP/小烈送菜.md",
     "题目/DP/背包DP/P6702 COCI2010-2011_7 ŠEĆER.md",
@@ -160,13 +165,8 @@
     "笔记/二维哈希.md",
     "笔记/笔记：字典树.md",
     "笔记/bitset 使用.md",
-    "笔记/动态规划/状压DP.md",
-    "笔记/动态规划/DP.md",
     "题目/DP/状压DP/P5911 POI2004 PRZ.md",
     "题目/图论/最小斯坦纳树",
-    "题目/数学/解方程.md",
-    "笔记/动态规划/区间DP.md",
-    "题目/搜索/错题：P2895 Meteor Shower S.md",
     "笔记/图论/拓扑排序",
     "2024考前集训测试12_Sol.pdf",
     "题目/DP/计数DP",
