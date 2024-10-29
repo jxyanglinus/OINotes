@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9ada2a3c30927d89",
+        "id": "4da7173ccada7348",
         "type": "tabs",
         "children": [
           {
-            "id": "01cd7cf5915428fb",
+            "id": "da96c7334bf29ac2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "题目/DP/背包DP/P1004 NOIP2000 提高组 方格取数.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "题目/DP/背包DP/P1004 NOIP2000 提高组 方格取数.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "题目/DP/背包DP/P1004 NOIP2000 提高组 方格取数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "题目/DP/背包DP/P1004 NOIP2000 提高组 方格取数.md"
+              }
             }
           }
         ],
@@ -138,15 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "01cd7cf5915428fb",
+  "active": "da96c7334bf29ac2",
   "lastOpenFiles": [
+    "题目/DP/背包DP/P1004 NOIP2000 提高组 方格取数.md",
+    "题目/DP/背包DP/小烈送菜.md",
     "题目/DP/线性DP/P1668 USACO04DEC Cleaning Shifts S.md",
     "笔记/动态规划/线段树优化 DP.md",
     "笔记/动态规划/状压DP.md",
     "[[P1880.md",
     "笔记/动态规划/DP.md",
     "题目/图论/并查集/欧几里得的噩梦.md",
-    "题目/DP/小烈送菜.md",
     "题目/DP/背包DP/P6702 COCI2010-2011_7 ŠEĆER.md",
     "题目/DP/背包DP/P5020 NOIP2018 提高组 货币系统.md",
     "题目/DP/背包DP/P2744 USACO5.3 量取牛奶Milk Measuring.md",
@@ -165,7 +174,6 @@
     "笔记/二维哈希.md",
     "笔记/笔记：字典树.md",
     "笔记/bitset 使用.md",
-    "题目/DP/状压DP/P5911 POI2004 PRZ.md",
     "题目/图论/最小斯坦纳树",
     "笔记/图论/拓扑排序",
     "2024考前集训测试12_Sol.pdf",
