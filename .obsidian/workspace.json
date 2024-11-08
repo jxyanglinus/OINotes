@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7256e65d035562f3",
+        "id": "4ed713ad568d6715",
         "type": "tabs",
         "children": [
           {
-            "id": "ed8709f686186490",
+            "id": "2b173f517de26a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/lowbit 与 highbit.md",
+                "file": "笔记/二分图.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/lowbit 与 highbit.md",
+                "file": "笔记/二分图.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/lowbit 与 highbit.md",
+                "file": "笔记/二分图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/lowbit 与 highbit.md"
+                "file": "笔记/二分图.md"
               }
             }
           }
@@ -146,9 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ed8709f686186490",
+  "active": "2b173f517de26a03",
   "lastOpenFiles": [
     "未命名.md",
+    "笔记/二分图.md",
+    "题目/图论/二分图/P1525 NOIP2010 提高组 关押罪犯.md",
+    "题目/图论/二分图",
+    "笔记/笔记：字典树.md",
+    "笔记/最小斯坦纳树.md",
+    "笔记/bitset 使用.md",
     "笔记/lowbit 与 highbit.md",
     "题目/DP/背包DP/P1004 NOIP2000 提高组 方格取数.md",
     "题目/DP/背包DP/小烈送菜.md",
@@ -169,11 +175,6 @@
     "题目/DP/背包DP/Software.md",
     "笔记/快读快写.md",
     "题目/搜索/P9861 CCC 2008 S4 Twenty-four.md",
-    "题目/图论/最小斯坦纳树/Peach Blossom Spring.md",
-    "题目/图论/最小斯坦纳树/P3264 JLOI2015 管道连接.md",
-    "笔记/最小斯坦纳树.md",
-    "笔记/二维哈希.md",
-    "笔记/笔记：字典树.md",
     "题目/图论/最小斯坦纳树",
     "笔记/图论/拓扑排序",
     "2024考前集训测试12_Sol.pdf",
@@ -183,7 +184,6 @@
     "题目/二分",
     "笔记/动态规划",
     "笔记/概率et期望",
-    "笔记/图论/最短路",
     "未命名 1.canvas",
     "未命名.canvas",
     "图片/C++运算符优先级.png",
