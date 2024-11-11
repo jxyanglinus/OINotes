@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ed713ad568d6715",
+        "id": "ece529ba5b2cd8e9",
         "type": "tabs",
         "children": [
           {
-            "id": "2b173f517de26a03",
+            "id": "4437042eb41b808d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/二分图.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/二分图.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/二分图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "笔记/二分图.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,10 +138,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2b173f517de26a03",
+  "active": "4437042eb41b808d",
   "lastOpenFiles": [
-    "未命名.md",
+    "题目/DP/未归类DP/不降序列.md",
+    "题目/DP/未归类DP",
+    "题目/数学/解方程.md",
+    "题目/数学/B.线段树.md",
+    "笔记/线段树/线段树.md",
+    "笔记/线段树/线段树总篇.md",
+    "题目/线段树/线段树/P4588 TJOI2018 数学计算.md",
+    "笔记/线段树/权值线段树.md",
+    "题目/图论/并查集/不相邻集合.md",
     "笔记/二分图.md",
+    "未命名.md",
     "题目/图论/二分图/P1525 NOIP2010 提高组 关押罪犯.md",
     "题目/图论/二分图",
     "笔记/笔记：字典树.md",
@@ -167,14 +168,6 @@
     "题目/DP/背包DP/P6702 COCI2010-2011_7 ŠEĆER.md",
     "题目/DP/背包DP/P5020 NOIP2018 提高组 货币系统.md",
     "题目/DP/背包DP/P2744 USACO5.3 量取牛奶Milk Measuring.md",
-    "题目/DP/背包DP/P1941 NOIP2014 提高组 飞扬的小鸟.md",
-    "题目/DP/背包DP/奶牛过河.md",
-    "笔记/动态规划/后效性.md",
-    "笔记/动态规划/多进程 DP.md",
-    "笔记/动态规划/01背包之：退背包.md",
-    "题目/DP/背包DP/Software.md",
-    "笔记/快读快写.md",
-    "题目/搜索/P9861 CCC 2008 S4 Twenty-four.md",
     "题目/图论/最小斯坦纳树",
     "笔记/图论/拓扑排序",
     "2024考前集训测试12_Sol.pdf",
@@ -183,7 +176,6 @@
     "未命名",
     "题目/二分",
     "笔记/动态规划",
-    "笔记/概率et期望",
     "未命名 1.canvas",
     "未命名.canvas",
     "图片/C++运算符优先级.png",
