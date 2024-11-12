@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ece529ba5b2cd8e9",
+        "id": "4003db4e22ef8239",
         "type": "tabs",
         "children": [
           {
-            "id": "4437042eb41b808d",
+            "id": "db9f6932fc3bf40c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4437042eb41b808d",
+  "active": "db9f6932fc3bf40c",
   "lastOpenFiles": [
+    "题目/数学/Jumbo 的树.md",
     "题目/DP/未归类DP/不降序列.md",
     "题目/DP/未归类DP",
     "题目/数学/解方程.md",
@@ -167,7 +168,6 @@
     "题目/图论/并查集/欧几里得的噩梦.md",
     "题目/DP/背包DP/P6702 COCI2010-2011_7 ŠEĆER.md",
     "题目/DP/背包DP/P5020 NOIP2018 提高组 货币系统.md",
-    "题目/DP/背包DP/P2744 USACO5.3 量取牛奶Milk Measuring.md",
     "题目/图论/最小斯坦纳树",
     "笔记/图论/拓扑排序",
     "2024考前集训测试12_Sol.pdf",
